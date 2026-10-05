@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background-image: url('../imagens/background.jpeg');
     background-size: cover;
+    background-attachmnt: fixed;
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -255,4 +256,12 @@ ol {
     .mural figcaption {
         font-size: 13px;
     }
+}
+
+footer {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
 }
