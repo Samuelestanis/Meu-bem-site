@@ -145,6 +145,13 @@ ol {
     text-align: center;
     font-size: 20px;
 }
+footer {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
 
 .mural {
     display: grid;
