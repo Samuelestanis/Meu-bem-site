@@ -283,4 +283,10 @@ footer p {
     .mural figcaption {
         font-size: 13px;
     }
+
+    .ranking .card:last-child {
+    grid-column: 1 / -1;
+    justify-self: center;
+    width: 100%;
+    }
 }
